@@ -17,6 +17,6 @@ export const getAllCompaniesDB = async () => {
   }
 }
 
-export const getCompanyByIdDB = async () => {
+export const getCompanyById = async () => {
   // res.send('comp')
 }

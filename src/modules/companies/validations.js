@@ -5,5 +5,6 @@ export default {
     params: Joi.object({
       companyId: Joi.number().integer().required(),
     }),
+    // body:
   },
 }
